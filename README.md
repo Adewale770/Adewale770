@@ -1,4 +1,4 @@
-# Hi, I'm Aral Roca
+# Hello ✋, I'm Adewale
 
 <div align="right">
   <a href="https://aralroca.com/donate">
