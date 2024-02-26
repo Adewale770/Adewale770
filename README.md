@@ -1,4 +1,4 @@
-# Hello ✋, I'm Adewale
+# Hello ✋, I'm Adewale Lasisi
 
 <div align="right">
   <a href="https://aralroca.com/donate">
